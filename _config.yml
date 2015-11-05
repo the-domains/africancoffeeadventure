@@ -1,0 +1,23 @@
+name: africancoffeeadventure
+favicon: null
+layout_spectrum: 0.9434619762469083
+typography_spectrum: 0.06975134299136698
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.512187353335321
+  lightness: 0.5905821258202195
+  saturation: 0.03213471174240112
+  rhythmicContrast: 0.18271347577683628
+purpose: []
